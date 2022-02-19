@@ -8,7 +8,7 @@ I'm always happy to help with problems & answering questions about my work.
 
 #### About me
 
-- 17 yo dude from Finland
+- 18 yo dude from Finland
 - Preferred pronouns: he/him (Other ones I find funny don't really care about it tho.)
 - You can call me Zefyro, Zefy or Zef
 
