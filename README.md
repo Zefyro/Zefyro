@@ -12,4 +12,4 @@ I'm always happy to help with problems & answering questions about my work.
 - Preferred pronouns: he/him (Other ones I find funny don't really care about it tho.)
 - You can call me Zefyro, Zefy or Zef
 
-I'll probably forget to update this thing so you can find my about me on my website: https://zefyro.net
+I'll probably forget to update this thing so you can find my about me on my website: https://zefyro.net  (P.S. I probably forget to update that too.)
