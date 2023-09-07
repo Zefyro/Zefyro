@@ -24,7 +24,8 @@ I'll probably forget to update this thing so you can find my about me on my webs
 ---
 <details>
 <summary>TODO</summary>
-  
+
+- [ ] [Eaglecord/EagleBot](https://github.com/Eaglecord/EagleBot) Rewrite
 - [ ] Rewrite all my minecraft datapacks in JMC
 - [ ] Clean up Github repositories
 </details>
