@@ -14,7 +14,6 @@ I'm always happy to help with problems & answering questions about my work.
 - You can call me Zefyro, Zefy or Zef
 - Likes to do random stuff with
 
-I'll probably forget to update this thing so you can find my about me on my website: https://zefyro.net  (P.S. I probably forget to update that too.)
 </details>
 
 
