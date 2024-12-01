@@ -10,7 +10,7 @@ I'm always happy to help with problems & answering questions about my work.
 <details open>
 <summary>About me</summary>
   
-- 20 yo guy from Finland
+- 21 yo guy from Finland
 - You can call me Zefyro, Zefy or Zef
 - Likes to do random stuff with
 
