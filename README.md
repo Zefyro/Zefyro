@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hallo! I'm Zefyro. I make Minecraft related stuff trying to either fix it or break it :P
+Hallo! I'm Lenni, I'm an ICT student at Turku University of Applied Sciences with a heavy interest in embedded software engineering.
 
-You can ask anything about my projects or talk in general on my discord server that you can join https://discord.gg/grz5UCW
+You can reach out to me through discord `@zefyro` where I'm the most active.
 
 I'm always happy to help with problems & answering questions about my work.
 
@@ -10,9 +10,10 @@ I'm always happy to help with problems & answering questions about my work.
 <details open>
 <summary>About me</summary>
   
-- 21 yo guy from Finland
-- You can call me Zefyro, Zefy or Zef
-- Likes to do random stuff with
+- I'm 21-years-old
+- My online alias is Zefyro
+- I like to read and write fantasy novels
+- Minecraft enthusiast
 
 </details>
 
@@ -21,12 +22,3 @@ I'm always happy to help with problems & answering questions about my work.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zefyro&show_icons=true&locale=en&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zefyro&show_icons=true&locale=en&layout=compact&theme=dark)
 ---
-<details>
-<summary>TODO</summary>
-
-- [ ] [Eaglecord/EagleBot](https://github.com/Eaglecord/EagleBot) Rewrite
-- [ ] Rewrite all my minecraft datapacks in JMC
-- [ ] Clean up Github repositories
-</details>
-
-
